@@ -1,8 +1,8 @@
 # https://rpubs.com/JanpuHou/339557
 
 # instalar no ubuntu: sudo apt-get install libsodium-dev
-# instalar boblioteca: install.packages("sodium", dependencies = TRUE)
-# instalar boblioteca: install.packages("safer", dependencies = TRUE)
+# instalar biblioteca: install.packages("sodium", dependencies = TRUE)
+# instalar biblioteca: install.packages("safer", dependencies = TRUE)
 # instalar no ubuntu: sudo apt-get install -y libgpgme11-dev
 # instalar biblioteca: install.packages("gpg", dependencies = TRUE)
 # instalar biblioteca: install.packages("seqinr", dependencies = TRUE)
